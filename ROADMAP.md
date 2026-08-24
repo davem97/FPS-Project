@@ -14,9 +14,9 @@ This page tracks planned, ongoing and completed development work.
   - **Laser Sight**
     - [ ] Fix laser position
     - [ ] Adjust laser brightness
-    - [x] Fix laser clipping
+    - ✅ Fix laser clipping
     - [ ] Add activation/deactivation
-    - [x] Improve laser visibility
+    - ✅ Improve laser visibility
     - [ ] Add attachment animation
     - [ ] Test laser with different weapons
   - **Shotgun**
