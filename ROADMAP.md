@@ -12,22 +12,22 @@ This page tracks planned, ongoing and completed development work.
 - [ ] Improve weapon switching
 - [ ] Adjust weapon recoil
 
-### Laser Sight
+  **Laser Sight**
 
-- [ ] Fix laser position
-- [ ] Adjust laser brightness
-- [ ] Fix laser clipping
-- [ ] Add activation/deactivation
-- [ ] Improve laser visibility
-- [ ] Add attachment animation
-- [ ] Test laser with different weapons
+  - [ ] Fix laser position
+  - [ ] Adjust laser brightness
+  - [ ] Fix laser clipping
+  - [ ] Add activation/deactivation
+  - [ ] Improve laser visibility
+  - [ ] Add attachment animation
+  - [ ] Test laser with different weapons
 
-### Shotgun
+  **Shotgun**
 
-- [ ] Fix shell loading
-- [ ] Improve pump animation
-- [ ] Adjust spread
-- [ ] Add shell ejection
+  - [ ] Fix shell loading
+  - [ ] Improve pump animation
+  - [ ] Adjust spread
+  - [ ] Add shell ejection
 
 ## AI
 
