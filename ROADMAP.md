@@ -32,6 +32,7 @@ This page tracks planned, ongoing and completed development work.
 ## AI
 
 - [ ] Add tasks here
+- [ ] Add tasks here
 
 ## Environment
 
